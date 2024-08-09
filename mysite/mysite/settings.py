@@ -34,6 +34,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     # My Apps
     'blog.apps.BlogConfig',
+    'taggit',
 
     # Django Default Apps
     'django.contrib.admin',
